@@ -1,1 +1,1 @@
-# CodiQuiz
+A web application that allows users to test their coding knowledge through a quiz. The app presents users with a series of multiple-choice questions related to programming concepts, languages, algorithms, and problem-solving.
